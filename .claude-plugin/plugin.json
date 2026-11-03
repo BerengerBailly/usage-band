@@ -1,0 +1,6 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "A live band above the prompt with your 5-hour and 7-day plan usage, reset countdowns and context fill",
+  "types": "./types/index.d.ts"
+}
